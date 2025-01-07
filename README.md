@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Marvel123g/into-component.git)
-- Live Site URL:https://github.com/Marvel123g/into-component.git
+- Live Site URL:https://marvel123g.github.io/into-component/
 
 ### Built with
 
@@ -43,6 +43,6 @@ I will love to continue to develop more JavaScript projects to horn my JavaScrip
 
 ## Author
 
-- Website - [Marvelous](https://github.com/Marvel123g/into-component.git)
+- Website - [Marvelous](https://marvel123g.github.io/into-component/)
 - Frontend Mentor - [@Marvel123g](https://www.frontendmentor.io/profile/Marvel123g))
 - Instagram- [@ma.rvellous971]
